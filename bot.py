@@ -1,5 +1,5 @@
 import telebot
-from fusion_brain import FusionBrainAPI  # импорт класса из другого файла
+from fusion_brain import FusionBrainAPI  
 
 # Замените на токен вашего Telegram-бота
 TELEGRAM_TOKEN = ''
