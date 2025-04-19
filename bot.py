@@ -2,9 +2,9 @@ import telebot
 from fusion_brain import FusionBrainAPI  # импорт класса из другого файла
 
 # Замените на токен вашего Telegram-бота
-TELEGRAM_TOKEN = '8160447654:AAFPhtJVVXdf9pTiwD3u6M6xcFcvObZCNbo'
-API_KEY = '47C2E81B1EF6118EE129CF3F04C05DE5'
-SECRET_KEY = '26FB5B2E21ADA950460BECEC36D6DA24'
+TELEGRAM_TOKEN = ''
+API_KEY = ''
+SECRET_KEY = ''
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
